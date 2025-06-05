@@ -39,23 +39,6 @@
             "result": {
                 "type": "string"
             }
-        },
-        {
-            "id": "COINCAP",
-            "name": "COINCAP",
-            "options": {
-                "stream": true
-            },
-            "parameters": [
-                {
-                    "description": "Asset",
-                    "name": "asset",
-                    "type": "string"
-                }
-            ],
-            "result": {
-                "type": "string"
-            }
         }
     ]
 }
